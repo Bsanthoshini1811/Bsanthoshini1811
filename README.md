@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bsanthoshini1811
+- 👋 Hi, I’m @B.Santhoshini
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Mining, Data Wrangling, Data Analytics
-- 💞️ I’m looking to collaborate on Projects involving predictions from Data
+- 🌱 I’m currently learning Data Mining, Data Wrangling, Data Analytics, ETL Frameworks.
+- 💞️ I’m looking to collaborate on Projects involving predictions from Data or Playing with different datasets.
 - 📫 How to reach me GitHub
 
 <!---
